@@ -1,0 +1,5 @@
+# Custom gitignore
+app/
+*.app
+*.old
+Pipfile
